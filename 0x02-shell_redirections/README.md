@@ -11,3 +11,7 @@ Untracked files:
 	../0x01-shell_permission/README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 99f2718] Confused smiley "(Ôo)
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+ create mode 100755 0x02-shell_redirections/1-confused_smiley
+ rewrite 0x02-shell_redirections/README.md (100%)
