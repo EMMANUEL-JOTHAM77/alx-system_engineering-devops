@@ -1,3 +1,15 @@
+Shell Arithmetic
+
+How to perform arithmetic operations with the shell
+
 The alias Command
-We will learn:
-How to create, list and temporarily disable an alias
+
+How to create an alias
+
+How to list aliases
+
+How to temporarily disable an alias
+
+Other help pages
+
+How to execute commands from a file in the current shell
